@@ -116,6 +116,7 @@ nav{
 }
 
 .product {
+    margin-bottom: 400px;
     h2 {
         text-align: center;
         font-weight: 700;
@@ -199,9 +200,6 @@ nav{
             }
         }
 
-        .product__card:hover {
-        }
-        
         
         .product__card:hover .product__card__hover {
             position: absolute;
